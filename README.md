@@ -1,2 +1,4 @@
-# JollyStation Archieve
-An archival repository for JollyStation/JollyStation.
+# TaleStation Archieve
+An archival repository for TaleStation/TaleStation.
+
+Somethings may be from the old JollyStation!
