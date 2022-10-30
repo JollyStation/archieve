@@ -7,3 +7,5 @@ with the tag of `// NON-MODULAR COMMENT`.
 
 However, due to the nature of JollyStation now, the merge driver servered its purpose and is now retired. Due to the mirror bot, the merge driver is a relic of
 a previous time before it existance.
+
+The command used to run the driver was `./_merge_driver.bash`
