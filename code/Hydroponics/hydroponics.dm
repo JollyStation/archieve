@@ -14,11 +14,4 @@
 		else
 			nutridrain *= 2
 
-/obj/machinery/hydroponics/constructable/RefreshParts()
-	. = ..()
-	// Dehardcodes the nutridrain scaling factor
-	nutridrain = initial(nutridrain) / rating
-	// Adds a flat 100 max water (doesn't really matter cause autogrow)
-	maxwater += 100
-
 #undef TRAY_MODIFIED_BASE_NUTRIDRAIN
